@@ -1,0 +1,11 @@
+name: neural_analysis_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8.18
+  - numpy
+  - scipy
+  - pandas
+  - ipykernel
+  - jupyterlab
+
