@@ -1,0 +1,105 @@
+{
+  "build": "py38h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/pkgutil-resolve-name-1.3.10-py38h06a4308_1",
+  "files": [
+    "lib/python3.8/site-packages/__pycache__/pkgutil_resolve_name.cpython-38.pyc",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/LICENSE",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/METADATA",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/RECORD",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/WHEEL",
+    "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/pkgutil_resolve_name.py"
+  ],
+  "fn": "pkgutil-resolve-name-1.3.10-py38h06a4308_1.conda",
+  "license": "MIT AND PSF-2.0",
+  "link": {
+    "source": "/opt/conda/pkgs/pkgutil-resolve-name-1.3.10-py38h06a4308_1",
+    "type": 1
+  },
+  "md5": "23a495b4e5c7cad2e5e23d01f72f6da3",
+  "name": "pkgutil-resolve-name",
+  "package_tarball_full_path": "/opt/conda/pkgs/pkgutil-resolve-name-1.3.10-py38h06a4308_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/pkgutil_resolve_name.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bb905028ae88f67413dede2f6b3db9ccec34f5de208e18b8d8ff720938125d8e",
+        "sha256_in_prefix": "bb905028ae88f67413dede2f6b3db9ccec34f5de208e18b8d8ff720938125d8e",
+        "size_in_bytes": 3759
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "bf89267349245330e66b38d209e292caefe8ca9469377a153ca70bd459a17e78",
+        "sha256_in_prefix": "bf89267349245330e66b38d209e292caefe8ca9469377a153ca70bd459a17e78",
+        "size_in_bytes": 3790
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0fcfa9830d5a154f474c89239681cb2a770a5ac0863581588739a7eaa9a30ded",
+        "sha256_in_prefix": "0fcfa9830d5a154f474c89239681cb2a770a5ac0863581588739a7eaa9a30ded",
+        "size_in_bytes": 624
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "89ad6194cea739a7da35085bf7c17c09eed08382a13e07ee664da1572ee2265f",
+        "sha256_in_prefix": "89ad6194cea739a7da35085bf7c17c09eed08382a13e07ee664da1572ee2265f",
+        "size_in_bytes": 798
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "sha256_in_prefix": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name-1.3.10.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9090774d9dc8bc2b76f5528823a08b6f5aa221b3b608b3d61e47b05842803308",
+        "sha256_in_prefix": "9090774d9dc8bc2b76f5528823a08b6f5aa221b3b608b3d61e47b05842803308",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "lib/python3.8/site-packages/pkgutil_resolve_name.py",
+        "path_type": "hardlink",
+        "sha256": "bc7d5228cb668ef88627600852f655c98435d5fb2f7d17615a1879ad060a61bc",
+        "sha256_in_prefix": "bc7d5228cb668ef88627600852f655c98435d5fb2f7d17615a1879ad060a61bc",
+        "size_in_bytes": 4391
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "94e86ff0f335f9948d83dba46e021e10e24817cf9638507179459e503b32c9f9",
+  "size": 10180,
+  "subdir": "linux-64",
+  "timestamp": 1704297556000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pkgutil-resolve-name-1.3.10-py38h06a4308_1.conda",
+  "version": "1.3.10"
+}

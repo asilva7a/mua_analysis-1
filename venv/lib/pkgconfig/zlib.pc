@@ -1,0 +1,13 @@
+prefix=/workspaces/mua_analysis-1/venv
+exec_prefix=/workspaces/mua_analysis-1/venv
+libdir=/workspaces/mua_analysis-1/venv/lib
+sharedlibdir=/workspaces/mua_analysis-1/venv/lib
+includedir=/workspaces/mua_analysis-1/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
